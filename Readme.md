@@ -3,8 +3,7 @@
 Transformer-based medical image restoration for converting low-field (64
 mT) MRI scans into high-field--like (3 T) images.
 
-This project was developed for the **Neuroinformatics MRI Super
-Resolution Challenge (CS-GY 9223)** at NYU.
+For more details, please see report.pdf
 
 ------------------------------------------------------------------------
 
