@@ -148,5 +148,5 @@ Low-field → Super-resolved → High-field
 ## Author
 
 **Aritro Roy**\
-NYU Tandon School of Engineering\
+NYU\
 MS in Computer Science
